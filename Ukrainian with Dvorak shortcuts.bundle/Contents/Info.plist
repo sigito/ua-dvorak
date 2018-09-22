@@ -11,9 +11,9 @@
 	<key>KLInfo_Ukrainian with Dvorak shortcuts</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.ukrainianwith dvorak shortcuts.ukrainianwith dvorak shortcuts</string>
+		<string>org.sil.ukelele.keyboardlayout.ukrainianwith dvorak shortcuts.ukrainianwithdvorakshortcuts</string>
 		<key>TISIntendedLanguage</key>
-		<string>en-UA</string>
+		<string>uk</string>
 	</dict>
 </dict>
 </plist>
