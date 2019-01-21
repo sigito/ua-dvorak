@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-01-21 at 20:14 (CET)-->
-<keyboard group="126" id="-1245" name="Ukrainian - Dvorak ⌘" maxout="1">
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-01-21 at 21:07 (CET)-->
+<keyboard group="7" id="19615" name="Ukrainian - Dvorak ⌘" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
     </layouts>
@@ -1479,6 +1479,9 @@
             <when state="State 7" output="o"/>
             <when state="State 8" output="t"/>
             <when state="State 9" output="."/>
+        </action>
+        <action id="63">
+            <when state="none" output="z"/>
         </action>
         <action id="7">
             <when state="none" output="-"/>
