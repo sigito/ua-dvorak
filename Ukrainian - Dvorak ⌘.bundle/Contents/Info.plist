@@ -10,6 +10,8 @@
 	<string>1.0</string>
 	<key>KLInfo_Ukrainian - Dvorak ⌘</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>com.samsoniuk.keyboardlayout.ua-dvorak.ukrainian-dvorak⌘</string>
 		<key>TISIntendedLanguage</key>
