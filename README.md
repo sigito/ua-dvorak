@@ -13,5 +13,6 @@ Ukrainian keyboard layout with Dvorak shortcuts for macOS
 2. Add a newly installed layout at `System Preference` → `Keyboard` → `Input Sources` section. It would appear in `Ukrainian` subgroup.
 
 ### Credits
-* Icon by [customicondesign.com](http://www.customicondesign.com/free-icons/flag-icon-set/flat-europe-rectangular-flag-icon-set/).
+* Ukrainian flag icons by [customicondesign.com](http://www.customicondesign.com/free-icons/flag-icon-set/flat-europe-rectangular-flag-icon-set/).
+* Lettered icons by [Apple Inc.](https://apple.com)
 * Created using [Ukelele](https://scripts.sil.org/ukelele).

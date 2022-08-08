@@ -12,6 +12,8 @@
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
+		<key>TISIconIsTemplate</key>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>com.samsoniuk.keyboardlayout.ua-dvorak.ukrainian-dvorak⌘</string>
 		<key>TISIntendedLanguage</key>
